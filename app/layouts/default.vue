@@ -3,10 +3,9 @@
     <header>
         <nav>
             <ul>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
+                <li> <nuxt-link to="/faussaire">Faussaire</nuxt-link> </li>
+                <li> <nuxt-link to="/imc">IMC</nuxt-link></li>
+                <li><nuxt-link to="/imc">Temperature</nuxt-link></li>
             </ul>
         </nav>
     </header>
