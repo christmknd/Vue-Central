@@ -1,5 +1,5 @@
 <template>
-  
+  <TemperatureTemp/>
 </template>
 
 <script setup>

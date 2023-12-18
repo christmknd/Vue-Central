@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="faussaire">
     <h1>Le Faussaire</h1>
         <p>
             La préservation et la confidentialité de ses informations personnelles sur Internet est aujourd'hui un véritable sujet <br>
@@ -22,5 +22,10 @@ definePageMeta({
 </script>
 
 <style>
-
+  .faussaire {
+    min-height: 100vh;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+  }
 </style>
