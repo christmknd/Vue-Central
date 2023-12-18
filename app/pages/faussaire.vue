@@ -9,6 +9,8 @@
         </p>
 
       <FaussaireBankAccountVue/>
+      <FaussaireCompany/>
+      <FaussaireIdentity/>
   </div>
 </template>
 
