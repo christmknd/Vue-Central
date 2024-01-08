@@ -5,7 +5,8 @@
             <ul>
                 <li> <nuxt-link to="/">Vue Central</nuxt-link> </li>
                 <li> <nuxt-link to="/faussaire">Faussaire</nuxt-link> </li>
-                <li>  <nuxt-link to="/temperature">Temperature</nuxt-link></li>
+                <li> <nuxt-link to="/temperature">Temperature</nuxt-link></li>
+                <li> <nuxt-link to="/imc">IMC</nuxt-link></li>
             </ul>
         </nav>
     </header>
